@@ -1,8 +1,13 @@
+# 👨‍💻 ALI Soleimani (ALISCHILLER)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/programer.__msa?igshid=NGExMmI2YTkyZg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-soleimani-7bba541b7)
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack:
+
 ### 🧠 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,22 +34,56 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ALISCHILLER&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ALISCHILLER&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALISCHILLER&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ALISCHILLER&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALISCHILLER&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALISCHILLER&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALISCHILLER&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ALISCHILLER&icon=7&color=1)](https://visitcount.itsvg.in)
+## 📂 Featured Projects:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🗓️ [Date Picker Persian Compose](https://github.com/ALISCHILLER/Date-Picker-Persian-Compose)
+A Jetpack Compose library for selecting dates and times in Persian language.
+- **Language:** Kotlin
+- **Features:** Supports Farsi date and time selection with a simple and intuitive UI.
+- **Usage:** Easy integration into Jetpack Compose projects.
+
+### 🧺 [Smart Washing Machine](https://github.com/ALISCHILLER/Smart-washing-machine)
+A smart washing machine project integrating IoT and automation.
+- **Language:** Kotlin
+- **Technologies:** Utilizes sensors and automation protocols for smart home integration.
+
+### 🏃‍♂️ [Running Tracking Location Compose](https://github.com/ALISCHILLER/Running-Tracking-Location-Compose)
+An Android app for tracking running routes using Jetpack Compose.
+- **Language:** Kotlin
+- **Features:** Real-time location tracking, route mapping, and performance analytics.
+
+### 📍 [Tracking Location Lifecycle Service](https://github.com/ALISCHILLER/Tracking-Location-Lifecycle-Service)
+A service-based Android application for location tracking with lifecycle awareness.
+- **Language:** Kotlin
+- **Technologies:** Implements ViewModel, LiveData, and Hilt for dependency injection.
+
+---
+
+## 🧠 About Me:
+I'm a passionate developer with a focus on mobile and backend technologies. I enjoy building applications that are both functional and user-friendly. My expertise spans across various programming languages and frameworks, and I am always eager to learn and explore new technologies.
+
+---
+
+## 📈 GitHub Activity:
+![GitHub Activity](https://github-contributor-stats.vercel.app/api?username=ALISCHILLER&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 🎯 Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 😂 Random Dev Meme:
+![Dev Meme](https://randommeme-five.vercel.app/)
+
+---
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=ALISCHILLER&icon=7&color=1)](https://visitcount.itsvg.in)
