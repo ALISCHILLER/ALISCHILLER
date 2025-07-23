@@ -3,10 +3,10 @@
 💻 توسعه‌دهنده موبایل و بک‌اند با تجربه در **Flutter**, **Android (Jetpack Compose)**، و **ASP.NET/C#**.
 
 ---
-
-## 🌐 با من در ارتباط باشید
+## 🌐 لینک‌ها
 [![Instagram](https://img.shields.io/badge/Instagram‑%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/programer.__msa)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn‑%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-soleimani-7bba541b7)
+
 
 ---
 
@@ -67,17 +67,17 @@
 
 ---
 
-## ✍️ نقل‌قول توسعه‌دهنده  
-> “<span align="center">[نقل‌قول تصادفی توسعه‌دهنده]</span>”
+## ✍️ نقل‌قول توسعه‌دهنده امروز
+> “Let’s do what’s right and not what we can get away with.” — جمله‌ای که همیشه در پروژه‌ها یادم می‌اندازد کیفیت باید اولویت اول باشد :contentReference[oaicite:5]{index=5}
 
 ---
 
-## 🛠️ ابزارهای سرگرمی  
+## 😂 ابزار سرگرمی
 ![Random dev meme](https://randommeme-five.vercel.app/)
 
 ---
 
-## 📌 بازدیدکننده‌ها  
+## 📌 بازدیدکننده‌ها
 [![Visitor Count](https://visitcount.itsvg.in/api?id=ALISCHILLER&icon=7&color=1)](https://visitcount.itsvg.in)
 
 ---
